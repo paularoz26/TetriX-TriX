@@ -346,7 +346,7 @@ class Tetrimino {
       }}
 
       Swal.fire({
-        title: "¡Como se juega?",
+        title:"¡SE JUEGA SOLO EN LA COMPUTADORA!",
         text: "Moviendo con el teclado Derecha o Izquierda",
         imageUrl:"images (3).jfif",
         imageWidth: 400,
